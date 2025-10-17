@@ -1,3 +1,4 @@
 .idea/*
 kafka_venv/*
 downloads/*
+.env
